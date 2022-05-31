@@ -1,0 +1,8 @@
+source $ HOME / .zshrc
+
+echo $ PATH
+flutter --version
+
+
+
+
